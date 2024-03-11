@@ -1,4 +1,4 @@
-# Student Data Query
+# Comprasion-Of-Execution-Times-BST-AVL-SINGLY LINKED LIST
 
 ## Author
 Arda Baran
